@@ -7,7 +7,6 @@ Keeper is a simple note-taking application that allows users to create, edit, an
 ## Features
 
 - Create new notes
-- Edit existing notes
 - Delete notes
 - Responsive design
 
