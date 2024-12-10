@@ -21,7 +21,7 @@ Keeper is a simple note-taking application that allows users to create, edit, an
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/keeper-app.git
+    git clone https://github.com/NimitJ99/keeper-app.git
     ```
 2. Navigate to the project directory:
     ```bash
