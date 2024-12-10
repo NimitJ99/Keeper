@@ -1,7 +1,7 @@
 # Keeper App
 
 Keeper is a simple note-taking application that allows users to create, edit, and delete notes. It is built using modern web technologies and provides a clean and intuitive user interface.
-[Visit Keeper App](https://codesandbox.io/p/sandbox/keeper-app-8tq8tx)
+[Visit Keeper App](https://8tq8tx.csb.app/)
 
 
 ## Features
